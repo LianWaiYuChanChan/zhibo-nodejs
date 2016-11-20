@@ -1,6 +1,13 @@
 # zhibo-nodejs
 zhibo backend based on nodejs
 
+## Introduction
+* node.js
+* express
+
+## Test
+* mocha
+
 ## Reference
 * ORM: Sequelize http://docs.sequelizejs.com/en/v3/
 * http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.WDFw1OGoW5g
