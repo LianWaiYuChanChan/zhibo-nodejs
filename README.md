@@ -1,6 +1,9 @@
 # zhibo-nodejs
 zhibo backend based on nodejs
 
+## CI status
+* [![Build Status](https://travis-ci.org/LianWaiYuChanChan/zhibo-nodejs.svg?branch=master)](https://travis-ci.org/LianWaiYuChanChan/zhibo-nodejs)
+
 ## Introduction
 * node.js
 * express
